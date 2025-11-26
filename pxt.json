@@ -1,30 +1,13 @@
 {
     "name": "test-tutorials",
-    "description": "",
     "dependencies": {
-        "core": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
         "tutorial1.md",
         "tutorial2.md",
-        "tutorial3.md",
-        "tsconfig.json",
-        "test.ts",
-        "README.md",
-        ".vscode/settings.json",
-        ".vscode/extensions.json",
-        "main.blocks",
-        "main.ts",
-        ".simstate.json",
-        "tutorial1.md",
-        "tutorial2.md",
-        "tutorial3.md",
-        ".git.json"
-    ],
-    "testFiles": [
-        "test.ts"
+        "tutorial3.md"
     ],
     "targetVersions": {
         "target": "8.0.18",

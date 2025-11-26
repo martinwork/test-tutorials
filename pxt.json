@@ -1,0 +1,37 @@
+{
+    "name": "test-tutorials",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "tutorial1.md",
+        "tutorial2.md",
+        "tutorial3.md",
+        "tsconfig.json",
+        "test.ts",
+        "README.md",
+        ".vscode/settings.json",
+        ".vscode/extensions.json",
+        "main.blocks",
+        "main.ts",
+        ".simstate.json",
+        "tutorial1.md",
+        "tutorial2.md",
+        "tutorial3.md",
+        ".git.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
